@@ -1,0 +1,9 @@
+**.tfstate
+**.backup
+**.info
+**.plan
+
+.terraform
+.code-workspace
+
+sandbox
